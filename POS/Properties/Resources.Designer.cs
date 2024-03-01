@@ -73,6 +73,26 @@ namespace POS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap download_removebg_preview_1 {
+            get {
+                object obj = ResourceManager.GetObject("download-removebg-preview 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap flat_color_icons_sales_performance {
+            get {
+                object obj = ResourceManager.GetObject("flat-color-icons_sales-performance", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Log_In__1_ {
             get {
                 object obj = ResourceManager.GetObject("Log In (1)", resourceCulture);
@@ -83,9 +103,39 @@ namespace POS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap noto_v1_shopping_cart {
+            get {
+                object obj = ResourceManager.GetObject("noto-v1_shopping-cart", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pexels_pixabay_261043_1 {
             get {
                 object obj = ResourceManager.GetObject("pexels-pixabay-261043 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Salary__1_ {
+            get {
+                object obj = ResourceManager.GetObject("Salary (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap streamline_emojis_money_bag {
+            get {
+                object obj = ResourceManager.GetObject("streamline-emojis_money-bag", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

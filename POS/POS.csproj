@@ -116,5 +116,20 @@
   <ItemGroup>
     <None Include="Resources\426316415_1113218646479789_2007102706407017179_n-removebg-preview 1 %281%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flat-color-icons_sales-performance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salary %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\streamline-emojis_money-bag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\noto-v1_shopping-cart.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
