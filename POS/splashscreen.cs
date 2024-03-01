@@ -16,11 +16,9 @@ namespace POS
     {
         public SplashScreen()
         {
-            Thread t = new Thread(new ThreadStart(StartForm));
-            t.Start();
-            Thread.Sleep(5000);
+        
             InitializeComponent();
-            t.Abort();
+           
         }
         public void StartForm()
         {
@@ -29,9 +27,6 @@ namespace POS
 
         private void progressBar1_Click(object sender, EventArgs e)
         {
-            Login login= new Login();
-            login.Show();
-            this.Close();
 
         }
     }
