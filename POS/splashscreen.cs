@@ -29,6 +29,9 @@ namespace POS
 
         private void progressBar1_Click(object sender, EventArgs e)
         {
+            Login login= new Login();
+            login.Show();
+            this.Close();
 
         }
     }
