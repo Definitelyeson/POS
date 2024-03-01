@@ -67,6 +67,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="Records.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,10 +75,13 @@
       <DependentUpon>Records.cs</DependentUpon>
     </Compile>
     <Compile Include="splashscreen.cs">
+=======
+    <Compile Include="Splashscreen.cs">
+>>>>>>> d27891588660a8af57ff216974fae1af7ae6574b
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="splashscreen.Designer.cs">
-      <DependentUpon>splashscreen.cs</DependentUpon>
+    <Compile Include="Splashscreen.Designer.cs">
+      <DependentUpon>Splashscreen.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
@@ -98,11 +102,16 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+<<<<<<< HEAD
     <EmbeddedResource Include="Records.resx">
       <DependentUpon>Records.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="splashscreen.resx">
       <DependentUpon>splashscreen.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Splashscreen.resx">
+      <DependentUpon>Splashscreen.cs</DependentUpon>
+>>>>>>> d27891588660a8af57ff216974fae1af7ae6574b
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

@@ -14,7 +14,17 @@ namespace POS
     {
         public SplashScreen()
         {
+<<<<<<< HEAD
             InitializeComponent();
+=======
+        
+            InitializeComponent();
+           
+        }
+        public void StartForm()
+        {
+            Application.Run(new SplashScreen());
+>>>>>>> d27891588660a8af57ff216974fae1af7ae6574b
         }
 
         private void progressBar1_Click(object sender, EventArgs e)

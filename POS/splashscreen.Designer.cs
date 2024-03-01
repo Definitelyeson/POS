@@ -51,7 +51,7 @@
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(381, 49);
             this.progressBar1.TabIndex = 6;
-            this.progressBar1.Click += new System.EventHandler(this.progressBar1_Click);
+            
             // 
             // SplashScreen
             // 
