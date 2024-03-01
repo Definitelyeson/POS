@@ -10,19 +10,11 @@ using System.Windows.Forms;
 
 namespace POS
 {
-    public partial class Form1 : Form
+    public partial class Inventory : Form
     {
-        public Form1()
+        public Inventory()
         {
             InitializeComponent();
-            
-           
-
-        }
-    
-        private void panel1_Paint_1(object sender, PaintEventArgs e)
-        {
-            panel1.BackColor = Color.FromArgb(10, 0, 0, 0);
         }
     }
 }
